@@ -158,7 +158,7 @@ const Home: NextPage = () => {
               >
                 FEATURES
               </div>
-              <div className="text-4xl  mt-2 md:mt-5">Urify Premium</div>
+              <div className="text-4xl  mt-2 md:mt-5">uifry Premium</div>
               <div className="flex flex-col">
                 <div className="mt-5 md:mt-10 flex flex-col">
                   <div className="text-base font-bold flex gap-2 items-center">
@@ -220,7 +220,7 @@ const Home: NextPage = () => {
                 ADVANTAGES
               </div>
               <div className="text-4xl font-black mt-2 md:mt-5">
-                Why Choose Urify?
+                Why Choose uifry?
               </div>
               <div className="mt-5 md:mt-10 text-2xl font-bold flex items-center gap-2">
                 <img src="./images/icons/noty.png" className="h-10 w-10"></img>
